@@ -7,7 +7,7 @@ Some errors I've come across while reading the second edition of [*Representatio
 | Page | Location | Correction |
 | ---: | --- | --- |
 | 82 | Example 9.9 (2) | It should be $v_1 g_2 = v_1$, not $v_1 g_2 = v_2$. |
-| 237 | Example 21.24 | The conjugacy class $\{ab, a^3b\}$ should be included. |
+| 237 | Example 21.24 | The conjugacy class $\\{ab, a^3b\\}$ should be included. |
 | 296 | Exercise 25.4 | It should be $\frac{-1\pm\sqrt{\delta p}}{2}$, not $-1\pm\sqrt{\delta p}$. |
 | 354 | Theorem 30.9 (Sylow's Theorem), part (1) | "...such a subgroup is **called** a Sylow..." instead of "...such a subgroup is **call** a Sylow...". |
 | 437 | Solution to Exercise 26.5 (a) | $G_9$, not $G_5$. |
